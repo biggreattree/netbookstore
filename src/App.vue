@@ -1,6 +1,10 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+    <router-link :to="{name: 'HelloWorld'}">
+      <div>你好，师姐</div>
+    </router-link>
+
     <tabs></tabs>
     <div class="content">
       <router-view/>
