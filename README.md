@@ -1,5 +1,8 @@
 # netbookstore
 
+## 开发流程
+依葫芦画瓢 -> 代码去重 -> 抽取数据结构 -> 采集与制作样本 -> 分析设计组件接口 -> 组件内部的细化与重构
+
 > A Vue.js project
 
 ## Build Setup
